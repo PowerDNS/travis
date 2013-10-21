@@ -12,46 +12,53 @@ Gem::Specification.new do |s|
 
   # generated from git shortlog -sn
   s.authors = [
-    "Konstantin Haase",
-    "Henrik Hodne",
-    "Peter Souter",
-    "Aaron Hill",
-    "Max Barnash",
-    "Mathias Meyer",
+    "Adam Lavin",
+    "Adrien Brault",
+    "Benjamin Manns",
+    "Daniel Chatfield",
     "Jacob Burkhart",
     "Josh Kalderimis",
     "Justin Lambert",
-    "Adam Lavin",
-    "Benjamin Manns",
+    "Laurent Petit",
+    "Maarten van Vliet",
     "Mario Visic",
+    "Neamar",
     "Piotr Sarnacki",
     "Rapha\xC3\xABl Pinson",
     "Tobias Wilken",
-    "Laurent Petit",
-    "Daniel Chatfield",
-    "Adrien Brault"
+    "Mathias Meyer",
+    "Peter van Dijk",
+    "Max Barnash",
+    "Peter Souter",
+    "Aaron Hill",
+    "Henrik Hodne",
+    "Konstantin Haase"
   ]
 
   # generated from git shortlog -sne
   s.email = [
-    "konstantin.mailinglists@googlemail.com",
-    "me@henrikhodne.com",
-    "p.morsou@gmail.com",
-    "aa1ronham@gmail.com",
-    "i.am@anhero.ru",
-    "meyer@paperplanes.de",
+    "adam@lavoaster.co.uk",
+    "adrien.brault@gmail.com",
+    "benmanns@gmail.com",
+    "chatfielddaniel@gmail.com",
+    "jburkhart@engineyard.com",
     "josh.kalderimis@gmail.com",
     "jlambert@eml.cc",
-    "adrien.brault@gmail.com",
-    "adam@lavoaster.co.uk",
-    "chatfielddaniel@gmail.com",
+    "laurent.petit@gmail.com",
+    "maartenvanvliet@gmail.com",
     "mario@mariovisic.com",
+    "neamar@neamar.fr",
     "drogus@gmail.com",
     "raphael.pinson@camptocamp.com",
     "tw@cloudcontrol.de",
-    "laurent.petit@gmail.com",
-    "benmanns@gmail.com",
-    "jburkhart@engineyard.com"
+    "meyer@paperplanes.de",
+    "peter.van.dijk@netherlabs.nl",
+    "i.am@anhero.ru",
+    "henrik@hodne.io",
+    "p.morsou@gmail.com",
+    "aa1ronham@gmail.com",
+    "me@henrikhodne.com",
+    "konstantin.mailinglists@googlemail.com"
   ]
 
   # generated from git ls-files
